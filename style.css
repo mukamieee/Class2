@@ -7,9 +7,30 @@ h1{
     
 }
 h2{
-    text-decoration: dotted underline;
+    border-bottom-style: dotted;
     font-size: 50px;
 }
 p{
     color: #414A4C;
+}
+
+#sgp2{
+    border-style: outset;
+    padding: 5px; 
+}
+#sgp3{
+    border-style: outset;
+    padding: 5px;
+}
+#sgp4{
+    border-style: outset;
+    padding: 5px;
+}
+#sgp5{
+    border-style: outset;
+    padding: 5px;
+}
+#sgp6{
+    border-style: outset;
+    padding: 5px;
 }
